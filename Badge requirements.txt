@@ -1,0 +1,48 @@
+Badge requirements 
+
+Cloud associate Badge: 
+Aaron Bachman 
+Email: abach06@gmail.com
+Week 5 project: https://medium.com/@abach06/automation-how-to-update-an-aws-ec2-instance-and-install-nginx-upon-launch-f2a4aed282f0
+
+Week 6 project: https://medium.com/@abach06/aws-cli-an-introduction-c9a2d446207a
+
+Week 7 project: https://medium.com/@abach06/efficiency-using-an-ami-to-launch-an-ec2-instance-94ff5e9917d9
+
+Week 8 projectl: https://medium.com/@abach06/creating-a-aws-dynamodb-table-with-least-privilege-using-aws-cli-e684b89a06ed
+ 
+Week 9 project: https://medium.com/@abach06/creating-a-highly-available-3-tier-architecture-for-web-applications-in-aws-23f37d49bd25
+
+CDA exam: Passed and badge obtained: https://www.credly.com/badges/6d58f080-92cb-4b68-b741-425eac36d626/public_url
+
+Python Badge requirements: 
+Aaron Bachman 
+Email: abach06@gmail.com
+
+Week 12 project: https://github.com/abach06/red_python/blob/main/mini_project.py
+
+Week 13 project:  https://medium.com/@abach06/using-python-to-automate-file-information-extraction-2200ed53e1b6
+
+Week 14 project: https://medium.com/@abach06/automate-company-savings-using-python-aws-and-boto3-to-stop-ec2-instances-e3adef6bc934
+
+Week 15 project: https://medium.com/@abach06/using-python-and-boto3-to-create-and-manage-a-dynamodb-table-dcb89189c2df
+
+Container Badge:
+Aaron Bachman 
+Email: abach06@gmail.com
+
+Week 16 project: https://medium.com/@abach06/how-to-build-docker-containers-with-python-and-boto3-3b559bbae308
+
+Week 17 project: https://medium.com/@abach06/create-a-docker-swarm-using-aws-4ad1988366e4
+
+Week 18 project: https://medium.com/@abach06/kubernetes-magic-spinning-up-dual-deployments-and-shared-services-with-custom-configmaps-and-92a25560fc11
+
+Terraform Badge:
+Aaron Bachman
+Email: abach06@gmail.com
+
+Week 20 project: https://medium.com/@abach06/diving-head-first-into-terraform-c365dcde9a59
+
+There were 3 more projects in this module, but I did not complete them. 
+
+Terraform associate 003 exam: Passed: https://www.credly.com/badges/abf8fce5-02bb-40f2-b56a-742d7aae13ba/public_url
